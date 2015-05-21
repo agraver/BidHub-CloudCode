@@ -1,11 +1,11 @@
 {
     "applications": {
         "<your app name>": {
-            "applicationId": "<your app id>",
-            "masterKey": "<your master key>"
+            "applicationId": "6CaxlRDL7JsVQnKp3KUCM2rFtMIzxxZkNkE0IbYZ",
+            "masterKey": "izscyVJ2UqUM0P0RDjnbDkeSBk00Oj1bZo2qKRFW"
         }, 
         "_default": {
-            "link": "<your app name>"
+            "link": "veoturg.ee"
         }
     }, 
     "global": {
