@@ -1,8 +1,8 @@
 {
     "applications": {
         "<your app name>": {
-            "applicationId": "6CaxlRDL7JsVQnKp3KUCM2rFtMIzxxZkNkE0IbYZ",
-            "masterKey": "izscyVJ2UqUM0P0RDjnbDkeSBk00Oj1bZo2qKRFW"
+            "applicationId": "8yLxbTzPZjIwjhvjWqmcf2rKzaOdRI5bg2zsK0Oh",
+            "masterKey": "oAajQpimNad1ISHb4HTV6OWx6qjQesK4h6Z0pMeG"
         }, 
         "_default": {
             "link": "veoturg.ee"
